@@ -9,7 +9,8 @@ Devote 30 minutes a day. (You MUST) .
 
 ## How to proceed
 
-> From Dr Sundaram's notes :   
+> From Dr Sundaram's notes :  
+
 It's very very easy to memorize, sing and help others to memorize all the 700 verses of the *Bhagavad Gita*.   
 Believe it or Not, it's very easy and extremely Fast.   
 

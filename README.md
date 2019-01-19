@@ -3,7 +3,10 @@
 An effort to memorize Gita.   
 Suggestions are welcome from those who have done successfully. 
 
-Devote 30 minutes a day. (You MUST) . 
+Devote 30 minutes a day. (You MUST) .  
+
+**Note :** There are many great online resource for learning and uderstanding **Bhagvada Gita**. This is not to repeat it. This is just a personal note of all the verses from daily study in attempt to memorize Gita slokas.  
+
 
 ---
 
@@ -20,4 +23,8 @@ It requires only *3 steps* : **Write, Listen, Sing**.
 - Sing : repeat while listening and sing along and without any help. (Repeat)
 
 Read, Understand and Memorize 2 sloks / day for 6 days a week. On 7th day, revise. 
+
+### Refs
+- https://www.holy-bhagavad-gita.org/chapter/1/verse/1
+
 
